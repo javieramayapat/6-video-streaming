@@ -40,7 +40,8 @@ DJANGO_APPS = [
 ]
 
 LOCAL_APPS = [
-    'users'
+    'users',
+    'videos'
 ]
 
 THIRD_PARTY_APPS = [
